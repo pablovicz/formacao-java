@@ -1,0 +1,1 @@
+Muito utilizado para substituir sequencias de ifs na aplicacao
