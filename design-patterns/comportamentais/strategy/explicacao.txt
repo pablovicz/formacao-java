@@ -1,1 +1,1 @@
-Muito utilizado para substituir sequencias de ifs na aplicacao
+https://refactoring.guru/design-patterns/strategy
